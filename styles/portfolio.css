@@ -32,7 +32,9 @@ margin: 20px 60px;
     margin-top: 20px;
     text-align: center;
 }
-
+.banner .btn-primary{
+    display: inline;
+}
 
 .open-sans-normal {
   font-family: "Open Sans", sans-serif;
