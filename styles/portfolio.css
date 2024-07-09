@@ -32,7 +32,10 @@ margin: 20px 60px;
     margin-top: 20px;
     text-align: center;
 }
-
+.fix{
+    display: flex;
+    gap: 10px;
+}
 
 
 .open-sans-normal {
