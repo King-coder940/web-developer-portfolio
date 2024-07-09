@@ -12,7 +12,7 @@ margin: 20px 60px;
     margin:0 0 0 20px;
     background-repeat: no-repeat;
     background-size:contain, 510px 270px;
-    background-position:top left,bottom right;
+    background-position:bottom left,bottom right;
     
 }
 .btn-primary{
@@ -213,5 +213,49 @@ main{
 hr{
     margin-bottom: 30px;
 }
+.footer-column h3{
+    text-align: left;
+
+}
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 117px;
+
+}
+footer input[type="text"]{
+    height: 8px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 30px 18px;
+    margin-bottom: 24px;
+    border: none;
+
+}
+footer input[type="email"]{
+    height: 8px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 30px 18px;
+    margin-bottom: 24px;
+    border:none;
+
+}
+textarea{
+    margin-bottom: 10px;
+    border: none;
+    padding: 30px 18px;
+    font-size: 16px;
+}
+.footer-column{
+    text-align: left;
+}
+
+   
+
 
 
